@@ -1,0 +1,52 @@
+8
+
+dir
+3
+file:///SVN/inventory
+file:///SVN/inventory
+
+
+
+2008-12-31T15:03:07.619774Z
+3
+allan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+92b63617-35b3-4fdf-99ec-46276190d8c2
+
+feature_list.txt
+file
+
+
+
+
+2008-12-31T15:05:30.000000Z
+912e862296d48d6c3585b5becc5f366e
+2008-12-31T15:03:07.619774Z
+3
+allan
+
+design_ideas.txt
+file
+
+
+
+
+2008-12-31T15:01:57.000000Z
+a3608bcaf793fa520f25442a9563929c
+2008-12-31T00:17:05.060248Z
+1
+allan
+
